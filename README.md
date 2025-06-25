@@ -1,0 +1,1 @@
+# diversicrop-first-training-school
